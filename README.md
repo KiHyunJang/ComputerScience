@@ -33,10 +33,11 @@
 - Stack & Queue
 - Tree
 - Graph
-- Graph, Tree 차이점
+- Graph와 Tree 차이점
 - Hash
 - Priority Queue & Heap
 
 ## Data Base
+
 ## Network
 
