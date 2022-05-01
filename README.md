@@ -1,7 +1,7 @@
-# ComputerScience
+# Computer Science
 기술 면접 준비 저장소  
     
-# Operating System
+## Operating System
 - 운영체제 개요
 - 컴퓨터 시스템의 구조
 - 프로세스 관리
@@ -10,7 +10,7 @@
 - 메모리 관리
 - 가상메모리
 
-# Algorithm
+## Algorithm
 - 빅오 표기법 (big-O notation)
 - 그리디 알고리즘(Greedy Algorithm)
 - 재귀 알고리즘(Recusion Algorithm)
@@ -28,7 +28,7 @@
 - 크루스칼 알고리즘(Kruskal Algorithm)
 - 백트래킹 알고리즘 (Backtracking Algorithm)
 
-# Data Structure
+## Data Structure
 - Array & Linked List
 - Stack & Queue
 - Tree
@@ -37,6 +37,6 @@
 - Hash
 - Priority Queue & Heap
 
-# Data Base
-# Network
+## Data Base
+## Network
 
