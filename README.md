@@ -1,6 +1,15 @@
-# Computer Science
+# Tech Interview
 기술 면접 준비 저장소  
     
+## Swift / iOS
+- Swift
+- iOS
+- RxSwift
+- OOP(Object Oriented Programming)
+- TDD(Test-Driven-Development)
+- Design Pattern
+- Architecture Pattern
+
 ## Operating System
 - 운영체제 개요
 - 컴퓨터 시스템의 구조
