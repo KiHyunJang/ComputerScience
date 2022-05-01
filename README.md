@@ -1,5 +1,5 @@
 # ComputerScience
-##기술 면접 준비 저장소  
+## 기술 면접 준비 저장소  
     
 # Operating System
 - 운영체제 개요
