@@ -11,7 +11,7 @@
 - Architecture Pattern
 
 ## Operating System
-- 운영체제 개요
+- [운영체제 개요](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/운영체제의%20개요.md)
 - 컴퓨터 시스템의 구조
 - 프로세스 관리
 - CPU 스케줄링
