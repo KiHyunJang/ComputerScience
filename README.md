@@ -22,8 +22,8 @@
 ## Algorithm
 - [빅오 표기법 (big-O notation)](https://github.com/KiHyunJang/Tech_Interview/blob/main/Algorithm/big-O%20notation.md)
 - [그리디 알고리즘(Greedy Algorithm)](https://github.com/KiHyunJang/Tech_Interview/blob/main/Algorithm/Greedy%20Algorithm.md)
-- 재귀 알고리즘(Recusion Algorithm)
-- 정렬 알고리즘 (Sorting Algorithm)
+- [재귀 알고리즘(Recusion Algorithm)](https://github.com/KiHyunJang/Tech_Interview/blob/main/Algorithm/Recusion%20Algorithm.md)
+- [정렬 알고리즘 (Sorting Algorithm)](https://github.com/KiHyunJang/Tech_Interview/blob/main/Algorithm/Sorting%20Algorithm.md)
 - 선형 탐색 알고리즘(Linear Search Algorithm)
 - 이진 탐색 알고리즘(Binary Search Algorithm)
 - 깊이 우선 탐색 알고리즘 (DFS Algorithm)
