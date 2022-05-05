@@ -13,7 +13,7 @@
 ## Operating System
 - [운영체제 개요](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/운영체제의%20개요.md)
 - [컴퓨터 시스템의 구조](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/컴퓨터%20시스템의%20구조.md)
-- 프로세스 관리
+- [프로세스 관리](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/프로세스%20관리.md)
 - CPU 스케줄링
 - 병행제어 및 데드락
 - 메모리 관리
