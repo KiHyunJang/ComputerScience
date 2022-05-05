@@ -38,8 +38,8 @@
 - 백트래킹 알고리즘 (Backtracking Algorithm)
 
 ## Data Structure
-- Array & Linked List
-- Stack & Queue
+- [Array & Linked List](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Array%20%26%20Linked%20List.md)
+- [Stack & Queue](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Stack%20%26%20Queue.md)
 - Tree
 - Graph
 - Graph와 Tree 차이점
