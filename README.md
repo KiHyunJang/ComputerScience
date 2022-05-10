@@ -5,7 +5,7 @@
 - Swift
 - iOS
 - RxSwift
-- OOP(Object Oriented Programming)
+- [OOP(Object Oriented Programming)](https://github.com/KiHyunJang/Tech_Interview/blob/main/Swift_iOS/OOP(Object%20Oriented%20Programming).md)
 - TDD(Test-Driven-Development)
 - Design Pattern
 - Architecture Pattern
