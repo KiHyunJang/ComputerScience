@@ -37,8 +37,8 @@
 - [Stack & Queue](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Stack%20%26%20Queue.md)
 - [Tree](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Tree.md)
 - [Graph](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Graph.md)
-- Graph와 Tree의 차이점
-- Hash
+- [Graph와 Tree의 차이점](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Graph와%20Tree의%20차이점.md)
+- [Hash](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Hash.md)
 - Priority Queue & Heap
   
 ## Network  
