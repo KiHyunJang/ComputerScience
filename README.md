@@ -4,11 +4,6 @@
 ## Swift / iOS
 - Swift
 - iOS
-- RxSwift
-- [OOP(Object Oriented Programming)](https://github.com/KiHyunJang/Tech_Interview/blob/main/Swift_iOS/OOP(Object%20Oriented%20Programming).md)
-- TDD(Test-Driven-Development)
-- Design Pattern
-- Architecture Pattern
 
 ## Operating System
 - [운영체제 개요](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/운영체제의%20개요.md)
@@ -37,16 +32,17 @@
 - 크루스칼 알고리즘(Kruskal Algorithm)
 - 백트래킹 알고리즘 (Backtracking Algorithm)
 
-## Data Structure
+## Data Structure  
 - [Array & Linked List](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Array%20%26%20Linked%20List.md)
 - [Stack & Queue](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Stack%20%26%20Queue.md)
 - [Tree](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Tree.md)
 - [Graph](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Graph.md)
-- Graph와 Tree 차이점
+- Graph와 Tree의 차이점
 - Hash
 - Priority Queue & Heap
-
-## Data Base
-
-## Network
+  
+## Network  
+  
+## Data Base  
+  
 
