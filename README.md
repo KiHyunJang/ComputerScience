@@ -24,7 +24,6 @@
 - 깊이 우선 탐색 알고리즘 (DFS Algorithm)
 - 너비 우선 탐색 알고리즘 (BFS Algorithm)
 - 동적 계획법 (Dynamic programming)
-- 최장 증가 부분 수열 알고리즘 (Longest Increasing Subsequence)
 - 소수 판별 알고리즘 (Prime Number Algorithm)
 - 에라토스테네스의 체 알고리즘 (Sieve of Eratosthenes)
 - 위상 정렬 (Topological sort)
