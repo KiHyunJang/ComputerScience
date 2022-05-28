@@ -9,7 +9,7 @@
 - [운영체제 개요](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/운영체제의%20개요.md)
 - [컴퓨터 시스템의 구조](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/컴퓨터%20시스템의%20구조.md)
 - [프로세스 관리](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/프로세스%20관리.md)
-- CPU 스케줄링
+- [CPU 스케줄링](https://github.com/KiHyunJang/Tech_Interview/blob/main/Operating_System/CPU%20스케줄링.md)
 - 병행제어 및 데드락
 - 메모리 관리
 - 가상메모리
@@ -38,7 +38,7 @@
 - [Graph](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Graph.md)
 - [Graph와 Tree의 차이점](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Graph와%20Tree의%20차이점.md)
 - [Hash](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Hash.md)
-- Priority Queue & Heap
+- [Priority Queue & Heap](https://github.com/KiHyunJang/Tech_Interview/blob/main/Data_Structure/Priority%20Queue%2C%20Heap.md)
   
 ## Network  
   
